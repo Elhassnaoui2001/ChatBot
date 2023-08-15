@@ -1,19 +1,26 @@
-# ChatBot 🤖
-Welcome to the OpenAI Chatbot repository! <br>
-This conversational chatbot is developed in Python using Streamlit and powered by the OpenAI LLM model GPT 3.5.
-# Demo Application
-Check out the demo of the chatbot in action:
-# Prerequisite libraries
-Make sure you have the following libraries installed:<br>
-    streamlit<br>
-    openai<br>
-# Get Your OpenAI API Key
-To use this chatbot, you'll need an OpenAI API key. Follow these steps to obtain your API key:<br><br>
-1-Visit https://platform.openai.com/account/api-keys.<br>
-2-Click the + Create new secret key button.<br>
-3-Enter an identifier name (optional) and click Create secret key.
-# Learn More
-🛠️ Streamlit Documentation Tutorial: Build Conversational Apps<br>
-📖 Streamlit Documentation: Chat Elements<br>
-<br><br>
-Feel free to explore, contribute, and build upon this chatbot project!
+# 🤖💬 OpenAI Chatbot
+
+A conversational chatbot built in Python using Streamlit and the OpenAI LLM model GPT 3.5.
+
+## Demo App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openai-chatbot.streamlit.app/)
+
+## Prerequisite libraries
+
+```
+streamlit
+openai
+```
+
+## Get an OpenAI API key
+
+You can get your own OpenAI API key by following the following instructions:
+1. Go to https://platform.openai.com/account/api-keys.
+2. Click on the `+ Create new secret key` button.
+3. Next, enter an identifier name (optional) and click on the `Create secret key` button.
+
+## Further Reading
+
+- 🛠️ [Streamlit Documentation Tutorial on _**Build conversational apps**_](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+- 📖 [Streamlit Documentation on _**Chat elements**_](https://docs.streamlit.io/library/api-reference/chat)
