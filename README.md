@@ -2,7 +2,7 @@
 Welcome to the OpenAI Chatbot repository! <br>
 This conversational chatbot is developed in Python using Streamlit and powered by the OpenAI LLM model GPT 3.5.
 # Demo Application
-Check out the demo of the chatbot in action:
+Check out the demo of the chatbot in action:<br>
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aichatbot.streamlit.app//)
 # Prerequisite libraries
 Make sure you have the following libraries installed:<br>
